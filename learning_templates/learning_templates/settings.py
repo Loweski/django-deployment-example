@@ -25,7 +25,7 @@ SECRET_KEY = 'c4vc1&(_97$6l&_96##(^6_n27o!x9-gg7x2xde(qp4#f!go@^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['loweski.pythonanywhere.com']
 
 
 # Application definition
